@@ -20,4 +20,4 @@ Rockbuster Data Set - The dataset includes infomation on Rockbuster's film inven
 The dataset is structured to reflect real-world business relationships between different data tables by being loaded into a PostgreSQL database.
 
 ## Visualizations
-All visualizations were created in Tableau Public and be found [here](https://public.tableau.com/app/profile/colin.widner/viz/RockbusterStealth_17102602624800/top_10_countrues#1).
+All visualizations were created in Tableau Public and be found in this [Tableau Workbook](https://public.tableau.com/app/profile/colin.widner/viz/RockbusterStealth_17102602624800/top_10_countrues#1).
